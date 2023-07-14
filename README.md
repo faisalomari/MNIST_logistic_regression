@@ -2,40 +2,6 @@
 <html>
 <head>
     <title>MNIST Classification with Logistic Regression and HOG Features</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            line-height: 1.6;
-        }
-
-        h1 {
-            text-align: center;
-        }
-
-        h2 {
-            margin-top: 40px;
-        }
-
-        code {
-            background-color: #f5f5f5;
-            padding: 2px 6px;
-            border-radius: 4px;
-        }
-
-        pre {
-            background-color: #f5f5f5;
-            padding: 10px;
-            border-radius: 4px;
-            overflow-x: auto;
-        }
-
-        ul {
-            padding-left: 20px;
-        }
-    </style>
 </head>
 <body>
     <h1>MNIST Classification with Logistic Regression and HOG Features</h1>
