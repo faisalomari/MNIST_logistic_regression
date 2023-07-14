@@ -37,31 +37,11 @@
     <pre><code>git clone <a href="https://github.com/faisalomari/MNIST_logistic_regression">https://github.com/your-username/mnist-logistic-hog.git</a></code></pre>
 </li>
 
-<li>Change into the project directory:
-    <pre><code>cd mnist-logistic-hog</code></pre>
+<li>Just run the python notebook.
 </li>
 
-<li>Prepare the dataset:
-    <p>Make sure you have downloaded the MNIST dataset or use the provided <code>download_dataset.sh</code> script to download and extract the dataset.</p>
-</li>
-
-<li>Train the logistic regression model:
-    <p>Run the following command to train the model on the MNIST dataset:</p>
-    <pre><code>python train.py</code></pre>
-    <p>This will train the logistic regression model using HOG features extracted from the MNIST images.</p>
-</li>
-
-<li>Evaluate the model:
-    <p>To evaluate the trained model on the test set, run the following command:</p>
-    <pre><code>python evaluate.py</code></pre>
-    <p>This will calculate and display the accuracy of the model on the test set.</p>
-</li>
 
 
 <h2>Results</h2>
 
-<p>The trained logistic regression model achieves an accuracy of X% on the test set, demonstrating the effectiveness of using HOG features for classifying MNIST digits.</p>
-
-<h2>License</h2>
-
-<p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for more details.</p>
+<p>The trained logistic regression model achieves an accuracy of 95% on the test set, demonstrating the effectiveness of using HOG features for classifying MNIST digits.</p>
