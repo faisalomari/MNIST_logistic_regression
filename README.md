@@ -1,4 +1,3 @@
-<title>MNIST Classification with Logistic Regression and HOG Features</title>
 <h1>MNIST Classification with Logistic Regression and HOG Features</h1>
 
 <p>
