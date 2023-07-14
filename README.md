@@ -31,9 +31,8 @@
 
 <h2>Usage</h2>
 
-
 <li>Clone the repository:
-    <pre><code>git clone <a href="https://github.com/faisalomari/MNIST_logistic_regression">https://github.com/your-username/mnist-logistic-hog.git</a></code></pre>
+    <pre><code>git clone <a href="https://github.com/faisalomari/MNIST_logistic_regression">https://github.com/faisalomari/MNIST_logistic_regression</a></code></pre>
 </li>
 
 <li>Just run the python notebook.
